@@ -1,0 +1,21 @@
+.btn__custom{
+    color: gray;
+}
+.feed__img{
+    width: 310px;
+    height: 370px;
+}
+.feed__img--individual{
+    height: 30rem;
+}
+.card,
+.modal-content{
+    border-radius: 4px;
+}
+.feed__like {
+    margin-bottom: .2rem;
+}
+.feed__number{
+    font-size: .8rem;
+    font-weight: 500;
+}
